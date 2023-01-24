@@ -1,0 +1,6 @@
+main: br.com.weavenmc.commons.bukkit.BukkitMain
+name: Commons
+version: 3.0
+website: loja.weavenmc.com.br
+depend: [ProtocolLib, ViaVersion]
+load: STARTUP

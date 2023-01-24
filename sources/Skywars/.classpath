@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/shock/Desktop/os ngc do weaven/Weaven/TUDO DO WEAVEN V3/Dependencias/PaperSpigot-1.8.8-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shock/eclipse/java-2020-03/eclipse/lombok.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shock/Desktop/os ngc do weaven/carga_girando_no_plantao_da_boca_se_brechar_na_5_vai_ser_muita_bala/Commons/target/Commons-3.1-SNAPSHOT-shaded.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

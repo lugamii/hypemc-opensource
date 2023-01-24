@@ -1,0 +1,38 @@
+#types=NETWORK,PVP_SIMULATOR,PVP_FULLIRON,DOUBLEKITHG
+#SINGLEKITHG,TEAMHG,GLADIATOR,PRACTICE,SKYWARS,LOBBY
+#LOGIN,TESTSERVER,NONE,TOURNAMENT
+command_worldedit: false
+server:
+  id: 'test'
+  type: 'TESTSERVER'
+  announce_start: false
+redis:
+  hostname: 'localhost'
+  password: ''
+  port: 6379
+mysql:
+  address: 'localhost'
+  database: 'weaven_network'
+  username: 'root'
+  password: ''
+  port: 3306
+bungeecord:
+  vpnblockerkey: 'uVEC5FwGsj25L6DOuMYFL2eghkU6s2'
+  motds:
+    main: '&8&m--&b&m]---&f &6&lWeaven&f&lMc &f| &dMinecraft Network &b&m---[&8&m--&f'
+    random:
+    - '&fVenha testar a &e&lSEASON 3.0 &6&lWEAVEN&f&lMC'
+    - '&eDomine a si mesmo, e dominara seu inimigo'
+    - '&6&lNOVIDADES&f no &4&lHG'
+    - '&eVisite: &9www.weavenmc.com.br'
+    - '&eNovos kits no servidor de &6&lPvP'
+    - '&b&lVENHA JOGAR HG!'
+  messages:
+    prefix: '&6&lWeaven&8&l>> '
+    broadcast:
+    - '&fDigite &b&l/teamhg&f para testar o novo &6&lMODO DE JOGO&f da Rede'
+    - '&fDeseja reiniciar seu &9&lSTATUS&f? Adquira ja o &3&lRESET KD&f na loja! Acesse: https://loja.weavenmc.com.br'
+    - '&eSiga @WeavenNetwork no Twitter para ter suporte e mais informacoes sobre nossa rede'
+    - '&fDigite &6&l/weavenmc&f e fique ligado sobre a Network'
+    - '&fAdquira seu vip &d&lWEAVEN&f em nossa &6&lLOJA&f! &6&lhttps://loja.weavenmc.com.br'
+    - '&9Acesse nosso site: www.weavenmc.com.br'

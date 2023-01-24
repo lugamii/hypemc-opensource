@@ -1,0 +1,5 @@
+name: Gladiator
+author: Shokiin
+version: 1.0
+main: br.com.mcweaven.gladiator.Gladiator
+depend: [Commons]

@@ -1,0 +1,7 @@
+main: br.com.weavenmc.lobby.Lobby
+name: Lobby
+version: 3.0
+authors: [skxy]
+website: loja.weavenmc.com.br
+description: A lobby server system
+depend: [Commons]

@@ -1,0 +1,4 @@
+main: br.com.weavenmc.commons.bungee.BungeeMain
+name: Commons
+authors: [sky] 
+version: 3.0

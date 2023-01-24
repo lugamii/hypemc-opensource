@@ -1,0 +1,7 @@
+nameMap: "Grécia"
+lobbyPoint: "X:24, Y:111, Z:23"
+feast: "X:123, Y:151, Z:106"
+R:
+  feast: 15
+  borda8: 150
+  borda7: 26

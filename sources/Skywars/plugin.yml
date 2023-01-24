@@ -1,0 +1,6 @@
+name: WeavenSkywars
+version: 1.0.0-SNAPSHOT
+main: br.com.weavenmc.skywars.WeavenSkywars
+authors: [kingoz]
+website: www.hypemc.com.br
+commands:
