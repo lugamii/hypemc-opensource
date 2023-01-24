@@ -12,4 +12,4 @@ Open Source do server HypeMC.
 - LobbySW
 # Créditos
 - Lugami (Desistirei)
-Você pode usar o projeto como quiser, mas lembre de me dar os créditos devidos.
+# Você pode usar o projeto como quiser, mas lembre de me dar os créditos devidos.
