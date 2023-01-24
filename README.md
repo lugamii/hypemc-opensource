@@ -1,5 +1,5 @@
 # hypemc-opensource
-Open Source do server HypeMC
+Open Source do server HypeMC.
 
 # O projeto contém o seguinte:
 - Commons
