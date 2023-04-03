@@ -1,0 +1,6 @@
+main: br.com.adlerlopes.bypiramid.hungergames.HungerGames
+name: HypeHG
+version: 1.0
+website: loja.hypemc.com.br
+authors: [Ninguem]
+depend: [Commons]

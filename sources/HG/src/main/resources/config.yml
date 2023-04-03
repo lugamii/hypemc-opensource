@@ -1,0 +1,8 @@
+test_server: false
+doublekit: true
+game:
+  start: 300
+  invencibility: 120
+  feast: 900
+auth:
+  key: INVALID
